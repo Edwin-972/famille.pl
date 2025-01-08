@@ -1,5 +1,5 @@
 # famille.
-cd('/Users/Edwin/Documents').
+
 
 Exercice 1
 
